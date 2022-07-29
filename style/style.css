@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: blanchedalmond;
+}
+ul {
+  list-style-type: none;
+}
+.main__title {
+  padding: 50px 0 30px 0;
+  text-align: center;
+}
+.main__description {
+  text-align: center;
+}
+.navigation {
+  padding: 50px 0 0 0;
+  display: flex;
+  justify-content: center;
+}
+.navigation__link {
+  margin-right: 20px;
+  color: rgb(12, 122, 25);
+}
